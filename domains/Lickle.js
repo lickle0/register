@@ -1,11 +1,10 @@
 {
-
+  "description": "Making Money Quick website",
   "owner": {
-
     "username": "lickle0",
-
-    "email": "licklescode@gmail.com"
-
+    "email": "lickl309@gmail.com"
+  },
+  "record": {
+    "CNAME": "zbj2.github.io"
   }
-
 }
